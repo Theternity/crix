@@ -1,0 +1,199 @@
+@media only screen and (max-width: 1339px) {
+	.kadro-all {
+		height: 680px;
+	}
+}
+
+@media only screen and (max-width: 1340px) {
+	.about-us, .filtre1 {
+		height: 320%;
+	}
+}
+
+@media only screen and (max-width: 1339px) {
+	.about-us, .filtre1 {
+		height: 340%;
+	}
+}
+
+@media only screen and (max-width: 1230px) {
+	.project {
+		height: 550px;
+	}
+
+	.about-us, .filtre1 {
+		height: 360%;
+	}
+}
+
+
+/*@media only screen and (max-width: 684px) {
+	.kadro-all {
+		margin-top: 200px;
+		height: 900px;
+	}
+
+	.about-us {
+		height: 200%;
+	}
+
+	.filtre1 {
+		height: 200%;
+	}
+}*/
+
+
+@media only screen and (max-width: 1130px) {
+	.project {
+		height: 750px;
+	}
+
+	.about-us, .filtre1 {
+		height: 400%;
+	}
+}
+
+@media only screen and (max-width: 690px) {
+	.about-us, .filtre1 {
+		height: 800%;
+	}
+
+	.project {
+		height: 750px;
+	}
+
+	.kadro-all {
+		height: 900px;
+	}
+
+	.about-text {
+		height: 1500px;
+	}
+
+}
+
+@media only screen and (max-width: 690px) {
+	.kadro-all {
+		height: 900px;
+	}
+}
+
+@media only screen and (max-width: 787px) {
+	.kadro-all {
+		height: 900px;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	.kadro-all {
+		height: 1450px;
+	}
+
+	.about-text {
+		height: 610px;
+	}
+
+	.about-text .about-us-text {
+		padding-top: 50px;
+	}
+}
+
+@media only screen and (max-width: 610px) {
+	.about-us, .filtre1 {
+		height: 570%;
+	}
+
+	.about-text {
+		height: 610px;
+	}
+}
+
+@media only screen and (max-width: 640px) {
+	.about-text {
+		height: 570px;
+	}
+}
+
+@media only screen and (max-width: 414px) {
+	.about-us, .filtre1 {
+		height: 600%;
+	}
+
+	.about-text {
+		height: 900px;
+	}
+
+	.logo {
+		text-align: center;
+	}
+}
+
+@media only screen and (max-width: 940px) {
+	.right {
+		display: none;
+	}
+
+	#bar {
+		color: white;
+		float: right;
+		line-height: 65px;
+		margin-right: 20px;
+		display: block;
+	}
+
+	.logo {
+		margin: 0;
+	}
+}
+
+@media only screen and (max-width: 550px) {
+	.about-text {
+		height: 650px;
+	}
+}
+
+@media only screen and (max-width: 786px) {
+	.about-us, .filtre1 {
+		height: 450%;
+	}
+
+	.about-text {
+		margin-left: 25px;
+		margin-right: 25px;
+	}
+}
+
+@media only screen and (max-width: 870px) {
+	.about-text {
+		height: 400px;
+	}
+
+	.about-us-text {
+		padding-top: -100px;
+	}
+}
+
+@media only screen and (max-width: 700px) {
+	.about-text {
+		height: 500px;	
+	}
+}
+
+@media only screen and (max-width: 640px) {
+	.about-text {
+		height: 550px;
+	}
+}
+
+@media only screen and (max-width: 570px) {
+	.about-text {
+		height: 600px;
+	}
+
+	.about-us, .filtre1 {
+		height: 690%;
+	}
+	.project {
+		height: 1500px;
+	}
+}

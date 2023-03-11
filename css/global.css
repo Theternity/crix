@@ -1,0 +1,16 @@
+p, h1, h2, h3, h4, h5, h6, a {
+	z-index: 10;
+}
+
+.display-none {
+	display: none;
+}
+
+i:hover {
+	cursor: pointer;
+}
+
+i {
+	display: block;
+}
+
